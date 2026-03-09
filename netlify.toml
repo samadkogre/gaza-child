@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/page--awareness.html"
+  to = "/"
+  status = 301
